@@ -1,0 +1,11 @@
+title:        Farhad Sotothe
+tagline:      'Farhad Sotothe'
+description:  'Student of Computer Science at the university of Jahad Daneshgahi of Mashhad'
+url:    http://sotothe.github.io
+version:      1.1.1
+author:
+  name:       Farhad Sotothe
+  email:      so.to.the@gmail.com
+permalink:    pretty
+pygments:     true
+paginate:     6
