@@ -464,8 +464,8 @@ a:focus {
 */
 
 .img-circular{
- width: 120px;
- height: 120px;
+ width: 140px;
+ height: 140px;
  background-image: url('/public/images/sotothe01.jpg');
  background-size: cover;
  display: block;
