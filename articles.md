@@ -3,4 +3,4 @@ layout: page
 title: Articles
 ---
 
-There is no article here yet.
+1. RCND: Random Based Clustering for Numerical Data

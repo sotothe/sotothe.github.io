@@ -9,3 +9,4 @@ author:
 permalink:    pretty
 pygments:     true
 paginate:     6
+gems: ["jekyll-paginate"]
