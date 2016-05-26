@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles
+title: Publications
 ---
 
 1. RCND: Random Based Clustering for Numerical Data
