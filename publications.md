@@ -3,4 +3,5 @@ layout: page
 title: Publications
 ---
 
-1. RCND: Random Based Clustering for Numerical Data
+##Papers
+Sotoude, D., and Sotothe, F. (2016). [RCND: Random Based Clustering for Numerical Data]
