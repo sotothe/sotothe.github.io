@@ -10,9 +10,10 @@ My CV is available to download as a PDF from [here](/public/downloads/Farhad_Sot
 ### Farhad Sotothe
 
 Phone:  +98 (0)939 9093061
+
 Email:  so.to.the@gmail.com
-Homepage: 
-http://sotothe.github.io
+
+Homepage: http://sotothe.github.io
 
 
 #### Experiences
@@ -31,9 +32,9 @@ Also I am co-founder at O'menso foundation which works on HCI, Human-computer in
 
 #### Courses
 
-LPIC2 (Linux Professional Institute Certification 2)
-LPIC1 (Linux Professional Institute Certification 1)
-Entrepreneurshiping
++ LPIC2 (Linux Professional Institute Certification 2)
++ LPIC1 (Linux Professional Institute Certification 1)
++ Entrepreneurshiping
 
 
 #### Education and Qualifications
