@@ -19,12 +19,12 @@ http://sotothe.github.io
 
 I have worked mostly as a freelancer in several fields as bellow:
 
-IT Consultant
-English - Persian Translator
-Photographer
-Graphic designer
-Teacher
-Network Technician
+- IT Consultant
+- English - Persian Translator
+- Photographer
+- Graphic designer
+- Teacher
+- Network Technician
 
 Also I am co-founder at O'menso foundation which works on HCI, Human-computer intraction, and I have worked on a new paradigm of file management for more than three years there.
 
