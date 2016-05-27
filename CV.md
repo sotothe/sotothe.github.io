@@ -9,11 +9,9 @@ My CV is available to download as a PDF from [here](/public/downloads/Farhad_Sot
 
 ### Farhad Sotothe
 
-Phone:  +98 (0)939 9093061
-
-Email:  so.to.the@gmail.com
-
-Homepage: http://sotothe.github.io
++ Phone:  +98 (0)939 9093061
++ Email:  so.to.the@gmail.com
++ Homepage: http://sotothe.github.io
 
 
 #### Experiences
