@@ -39,7 +39,5 @@ Entrepreneurshiping
 #### Education and Qualifications
 
 2015-now Student of Computer Science at the University of Jahad Daneshgahi of Mashhad, IR.
-
 2003-2007 Associate’s Degree, Computer Science - Vali-e-Asr University of Rafsanjan, IR.
-
 1999-2002 High School, Mathematics - Non-governmental Schools of Isfahan University of Technology, Isfahan, IR.
