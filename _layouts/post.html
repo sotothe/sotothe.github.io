@@ -6,18 +6,13 @@ layout: default
   <h1>{{ page.title }}</h1>
       <span class="post-date">
     <img class="img-icon" src="/public/images/iconmonstr-calendar-5-icon.svg"></img>{{ page.date | date_to_string }}
-    <img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img>Sotothe
-<!--
-{{ page.author }}
--->
+    <img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img>{{ page.author }}
+
 <!--
     <img class="img-icon" src="/public/images/iconmonstr-tags-3-icon.svg"></img>{% for categories in page.categories %} {{ categories }} {% if forloop.last != true %} {% endif %} {% endfor %}
 -->
     <img class="img-icon" src="/public/images/iconmonstr-speech-bubble-14-icon.svg"></img><a href="{{site.url}}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
 </span>
-
-
-aaaaaaaaaaaaaaaaaaaaaaaa
 
   {{ content }}
 </div>
