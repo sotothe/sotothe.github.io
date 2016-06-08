@@ -25,18 +25,18 @@ I have worked mostly as a freelancer in several fields as bellow:
 + Teacher
 + Network Technician
 
-Also I am co-founder at O'menso foundation which works on HCI, Human-computer intraction, and I have worked on a new paradigm of file management for more than three years there.
+Also I am co-founder at O'menso foundation which works on HCI, Human-computer interaction, and I have worked on a new paradigm of file management for more than three years there.
 
 
 #### Courses
 
 + LPIC2 (Linux Professional Institute Certification 2)
 + LPIC1 (Linux Professional Institute Certification 1)
-+ Entrepreneurshiping
++ CCNA (Cisco Certified Network Associate)
 
 
 #### Education and Qualifications
 
-+ 2015-now Student of Computer Science at the University of Jahad Daneshgahi of Mashhad, IR.
++ 2015-now Student of Computer Science at Iranian academic center for education, culture and research, IR.
 + 2003-2007 Associate’s Degree, Computer Science - Vali-e-Asr University of Rafsanjan, IR.
 + 1999-2002 High School, Mathematics - Non-governmental Schools of Isfahan University of Technology, Isfahan, IR.
