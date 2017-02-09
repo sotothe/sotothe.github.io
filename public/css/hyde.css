@@ -271,6 +271,8 @@ a:focus {
 }
 .masthead-lang{
   padding: 20px;
+  color: rgba(255,255,255,.5);
+  align: right;
 }
 .masthead-inner {
   padding: 20px;
