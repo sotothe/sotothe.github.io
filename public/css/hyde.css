@@ -269,6 +269,9 @@ a:focus {
   color: #fff;
   background-color: #2a2a2a;
 }
+.masthead-lang{
+  padding: 20px;
+}
 .masthead-inner {
   padding: 20px;
 }
