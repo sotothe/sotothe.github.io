@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en-us"> <!-- http: -->
 
   {% include head.html %}
 
@@ -7,7 +7,7 @@
 
      <header class="masthead">
 	<div class="masthead-lang">
-	   <p>English/<a href="http://sotothe.github.io/fa/">Persian</a></p>
+	   <p>English/<a href="//sotothe.github.io/fa/">Persian</a></p> <!-- http: -->
 	</div>
 	
 	<div class="masthead-inner">
@@ -49,13 +49,13 @@
 <script type="text/javascript">
 		var disqus_shortname = 'sotothe'; // required: replace example with your forum shortname
                 var disqus_identifier = '{{ page.url }}';
-		var disqus_url = 'http://sotothe.github.io{{ page.url }}';
+		var disqus_url = '//sotothe.github.io{{ page.url }}'; // http:
  
 		/* * * DON'T EDIT BELOW THIS LINE * * */
 		(function () {
 			var s = document.createElement('script'); s.async = true;
 			s.type = 'text/javascript';
-			s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+			s.src = '//' + disqus_shortname + '.disqus.com/count.js'; // http:
 			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 		}());
 	</script>
